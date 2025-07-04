@@ -1,8 +1,8 @@
 # How to Install Kali Linux on Android (Without Root) – 100% Working and Safe
 
-Hey friends! 
-Do you want to install **Kali Linux** on your **Android phone** without rooting it?  
-If yes, then you're in the right place. In this GitHub repo, I’m sharing the easiest and 100% working method that I have already explained step-by-step in my blog.
+![How to Install Kali Linux in Android](https://github.com/Achik-Ahmed/install-kali-linux-on-android-without-root/blob/main/how-to-install-kali-linux-in-android.jpg)
+
+Hey friends! Do you want to install **Kali Linux** on your **Android phone** without rooting it? If yes, then you're in the right place. In this GitHub repo, I’m sharing the easiest and 100% working method that I have already explained step-by-step in my blog.
 
 **Read Full Blog Post:**  
 https://www.achik.us/how-to-install-kali-linux-on-android-without-root/
